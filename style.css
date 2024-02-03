@@ -640,6 +640,9 @@ footer{
     .project-box{
         width: 80%;
     }
+    .project-box1{
+        width: 80%;
+    }
 
 }
 
@@ -650,6 +653,9 @@ footer{
         font-size: 40px;
     }
     .project-box{
+        width: 100%;
+    }
+    .project-box1{
         width: 100%;
     }
     .form-inputs{
